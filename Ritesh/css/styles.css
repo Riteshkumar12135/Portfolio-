@@ -219,7 +219,7 @@
 	--base-size        : 62.5%;
 	--multiplier       : 1;
 	--base-font-size   : calc(2rem * var(--multiplier));
-	--space            : calc(3.2rem * var(--multiplier));
+	--space            : calc(2rem * var(--multiplier));
 
   /* vertical spacing 
    */
